@@ -1,0 +1,1 @@
+FILE_CHAR_LIMIT: int = 10000
