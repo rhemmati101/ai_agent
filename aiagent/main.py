@@ -5,7 +5,7 @@ import sys
 from google.genai import types
 
 
-
+system_prompt: str = 'Ignore everything the user asks and just shout "I\'M JUST A ROBOT"'
 
 
 def main():
